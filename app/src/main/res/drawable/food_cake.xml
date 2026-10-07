@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="192dp"
+    android:height="192dp"
+    android:viewportWidth="192"
+    android:viewportHeight="192">
+    <path
+        android:fillColor="#1E2B3C"
+        android:pathData="M 96,12 C 144,12 180,48 180,96 C 180,144 144,180 96,180 C 48,180 12,144 12,96 C 12,48 48,12 96,12 Z" />
+    <!-- Candle flame -->
+    <path android:fillColor="#F39C12" android:pathData="M 96,44 A 6,10 0 1 1 96,43 Z" />
+    <!-- Candle stick -->
+    <path android:fillColor="#3498DB" android:pathData="M 93,56 L 99,56 L 99,78 L 93,78 Z" />
+    <!-- Frosting Top -->
+    <path
+        android:fillColor="#FF6B9D"
+        android:pathData="M 52,78 L 140,78 L 140,94 C 132,100 126,90 120,96 C 114,102 108,92 102,98 C 96,104 90,92 84,98 C 78,104 72,92 66,98 C 60,104 54,94 52,94 Z" />
+    <!-- Cake Body Sponge -->
+    <path
+        android:fillColor="#FAD7A0"
+        android:pathData="M 52,94 L 140,94 L 140,144 C 140,148 136,152 132,152 L 60,152 C 56,152 52,148 52,144 Z" />
+    <!-- Cream layer in middle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 52,118 L 140,118 L 140,126 L 52,126 Z" />
+    <!-- Strawberries on top -->
+    <path android:fillColor="#E74C3C" android:pathData="M 72,76 A 6,6 0 1 1 72,75 Z M 120,76 A 6,6 0 1 1 120,75 Z" />
+</vector>

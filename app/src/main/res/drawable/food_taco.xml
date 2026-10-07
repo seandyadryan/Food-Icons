@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="192dp"
+    android:height="192dp"
+    android:viewportWidth="192"
+    android:viewportHeight="192">
+    <path
+        android:fillColor="#1E2B3C"
+        android:pathData="M 96,12 C 144,12 180,48 180,96 C 180,144 144,180 96,180 C 48,180 12,144 12,96 C 12,48 48,12 96,12 Z" />
+    <!-- Taco shell -->
+    <path
+        android:fillColor="#F39C12"
+        android:pathData="M 44,136 C 44,72 80,56 124,56 C 140,56 148,64 148,72 C 148,110 120,136 60,136 Z" />
+    <!-- Meat filling -->
+    <path
+        android:fillColor="#795548"
+        android:pathData="M 68,120 C 74,96 102,82 126,82 C 134,82 140,88 140,94 C 136,114 116,126 80,126 Z" />
+    <!-- Lettuce and tomatoes -->
+    <path android:fillColor="#27AE60" android:pathData="M 80,94 C 84,86 92,90 98,84 C 104,78 112,86 118,80 C 124,84 130,80 132,86 Z" />
+    <path android:fillColor="#E74C3C" android:pathData="M 92,94 A 5,5 0 1 1 92,93 Z M 110,90 A 5,5 0 1 1 110,89 Z" />
+    <path android:fillColor="#F1C40F" android:pathData="M 82,106 L 90,102 M 100,104 L 108,100 M 118,102 L 126,98" android:strokeWidth="3" android:strokeColor="#F1C40F" />
+</vector>

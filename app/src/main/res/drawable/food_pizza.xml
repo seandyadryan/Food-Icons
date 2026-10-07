@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="192dp"
+    android:height="192dp"
+    android:viewportWidth="192"
+    android:viewportHeight="192">
+    <path
+        android:fillColor="#1E2B3C"
+        android:pathData="M 96,12 C 144,12 180,48 180,96 C 180,144 144,180 96,180 C 48,180 12,144 12,96 C 12,48 48,12 96,12 Z" />
+    <!-- Pizza slice crust -->
+    <path
+        android:fillColor="#D35400"
+        android:pathData="M 50,56 C 80,42 112,42 142,56 L 138,68 C 110,56 82,56 54,68 Z" />
+    <!-- Cheese body -->
+    <path
+        android:fillColor="#F1C40F"
+        android:pathData="M 54,68 C 82,56 110,56 138,68 L 96,150 Z" />
+    <!-- Pepperoni -->
+    <path android:fillColor="#C0392B" android:pathData="M 84,80 A 10,10 0 1 1 84,79 Z" />
+    <path android:fillColor="#C0392B" android:pathData="M 110,92 A 9,9 0 1 1 110,91 Z" />
+    <path android:fillColor="#C0392B" android:pathData="M 94,116 A 8,8 0 1 1 94,115 Z" />
+    <!-- Herbs -->
+    <path android:fillColor="#27AE60" android:pathData="M 70,96 L 76,98 L 74,104 Z" />
+    <path android:fillColor="#27AE60" android:pathData="M 112,74 L 118,78 L 114,82 Z" />
+</vector>

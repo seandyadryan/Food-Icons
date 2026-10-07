@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="192dp"
+    android:height="192dp"
+    android:viewportWidth="192"
+    android:viewportHeight="192">
+    <path
+        android:fillColor="#1E2B3C"
+        android:pathData="M 96,12 C 144,12 180,48 180,96 C 180,144 144,180 96,180 C 48,180 12,144 12,96 C 12,48 48,12 96,12 Z" />
+    <!-- Rice bed -->
+    <path
+        android:fillColor="#ECF0F1"
+        android:pathData="M 52,98 C 52,86 72,82 96,82 C 120,82 140,86 140,98 L 140,120 C 140,132 120,136 96,136 C 72,136 52,132 52,120 Z" />
+    <!-- Salmon fish slice on top -->
+    <path
+        android:fillColor="#E67E22"
+        android:pathData="M 46,92 C 46,78 68,72 96,72 C 124,72 146,78 146,92 C 146,104 124,108 96,108 C 68,108 46,104 46,92 Z" />
+    <!-- Salmon texture stripes -->
+    <path android:strokeColor="#FAD7A0" android:strokeWidth="3" android:pathData="M 68,82 L 82,98 M 88,80 L 102,98 M 108,80 L 122,98" />
+    <!-- Nori band -->
+    <path
+        android:fillColor="#1C2833"
+        android:pathData="M 86,72 L 106,72 L 106,136 L 86,136 Z" />
+</vector>

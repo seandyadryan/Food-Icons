@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background tile for all apps that don't have a custom icon -->
+    <iconback img1="iconback" />
+    <!-- Mask shape so unthemed icons fit nicely on the tile -->
+    <iconmask img1="iconmask" />
+    <iconupon img1="iconupon" />
+    <!-- Scale unthemed icons so they sit inside the food tile -->
+    <scale factor="0.72" />
+
+    <!-- Popular Apps Mappings to Food Icons -->
+    <!-- WhatsApp -->
+    <item component="ComponentInfo{com.whatsapp/com.whatsapp.HomeActivity}" drawable="food_burger" />
+    <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="food_burger" />
+    <item component="ComponentInfo{com.whatsapp.w4b/com.whatsapp.HomeActivity}" drawable="food_burger" />
+
+    <!-- YouTube -->
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.HomeActivity}" drawable="food_pizza" />
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.apps.youtube.app.WatchWhileActivity}" drawable="food_pizza" />
+
+    <!-- Google Chrome -->
+    <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="food_coffee" />
+
+    <!-- Instagram -->
+    <item component="ComponentInfo{com.instagram.android/com.instagram.mainactivity.MainActivity}" drawable="food_donut" />
+
+    <!-- TikTok -->
+    <item component="ComponentInfo{com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="food_ramen" />
+    <item component="ComponentInfo{com.ss.android.ugc.trill/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="food_ramen" />
+
+    <!-- Facebook -->
+    <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="food_taco" />
+    <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.MainActivity}" drawable="food_taco" />
+
+    <!-- Spotify -->
+    <item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="food_drink" />
+
+    <!-- Netflix -->
+    <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" drawable="food_pizza" />
+
+    <!-- Telegram -->
+    <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="food_sushi" />
+
+    <!-- Twitter / X -->
+    <item component="ComponentInfo{com.twitter.android/com.twitter.app.main.MainActivity}" drawable="food_meat" />
+
+    <!-- Google Play Store -->
+    <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="food_burger" />
+
+    <!-- Google Maps -->
+    <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="food_sushi" />
+
+    <!-- Gmail -->
+    <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="food_coffee" />
+
+    <!-- Camera (Google, Samsung, Xiaomi, Standard) -->
+    <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="food_avocado" />
+    <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="food_avocado" />
+    <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="food_avocado" />
+    <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="food_avocado" />
+
+    <!-- Photos / Gallery -->
+    <item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="food_icecream" />
+    <item component="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.GalleryActivity}" drawable="food_icecream" />
+    <item component="ComponentInfo{com.miui.gallery/com.miui.gallery.activity.HomePageActivity}" drawable="food_icecream" />
+    <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="food_icecream" />
+
+    <!-- Settings -->
+    <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="food_coffee" />
+    <item component="ComponentInfo{com.android.settings/com.android.settings.HomepageSettings}" drawable="food_coffee" />
+
+    <!-- Phone / Dialer -->
+    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="food_fries" />
+    <item component="ComponentInfo{com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity}" drawable="food_fries" />
+    <item component="ComponentInfo{com.android.dialer/com.android.dialer.main.impl.MainActivity}" drawable="food_fries" />
+
+    <!-- Messages / SMS -->
+    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="food_taco" />
+    <item component="ComponentInfo{com.samsung.android.messaging/com.samsung.android.messaging.ui.view.main.ConversationMainActivity}" drawable="food_taco" />
+
+    <!-- Clock -->
+    <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="food_donut" />
+    <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}" drawable="food_donut" />
+
+    <!-- Calculator -->
+    <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="food_egg" />
+    <item component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}" drawable="food_egg" />
+
+    <!-- Files -->
+    <item component="ComponentInfo{com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity}" drawable="food_fries" />
+    <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity}" drawable="food_fries" />
+
+    <!-- Shopee & Tokopedia -->
+    <item component="ComponentInfo{com.shopee.id/com.shopee.app.ui.home.HomeActivity_}" drawable="food_pizza" />
+    <item component="ComponentInfo{com.tokopedia.tkpd/com.tokopedia.navigation.presentation.activity.MainParentActivity}" drawable="food_avocado" />
+
+    <!-- Gojek & Grab -->
+    <item component="ComponentInfo{com.gojek.app/com.gojek.app.home.HomeActivity}" drawable="food_drink" />
+    <item component="ComponentInfo{com.grabtaxi.passenger/com.grabtaxi.passenger.SplashActivity}" drawable="food_burger" />
+</resources>

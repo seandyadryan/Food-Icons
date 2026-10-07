@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="192dp"
+    android:height="192dp"
+    android:viewportWidth="192"
+    android:viewportHeight="192">
+    <path
+        android:fillColor="#1E2B3C"
+        android:pathData="M 96,12 C 144,12 180,48 180,96 C 180,144 144,180 96,180 C 48,180 12,144 12,96 C 12,48 48,12 96,12 Z" />
+    <!-- Donut dough -->
+    <path
+        android:fillColor="#D35400"
+        android:pathData="M 96,44 A 52,52 0 1 1 95.9,44 Z" />
+    <!-- Pink Strawberry Glaze -->
+    <path
+        android:fillColor="#FF6B9D"
+        android:pathData="M 96,48 C 124,48 144,68 144,96 C 144,106 140,112 134,116 C 128,120 126,112 120,114 C 114,116 112,126 104,126 C 96,126 94,116 88,118 C 82,120 80,128 72,128 C 64,128 62,118 56,114 C 50,110 48,104 48,96 C 48,68 68,48 96,48 Z" />
+    <!-- Donut hole -->
+    <path
+        android:fillColor="#1E2B3C"
+        android:pathData="M 96,82 A 16,16 0 1 1 95.9,82 Z" />
+    <!-- Colorful Sprinkles -->
+    <path android:strokeColor="#F1C40F" android:strokeWidth="3" android:strokeLineCap="round" android:pathData="M 80,64 L 88,68 M 112,66 L 118,62 M 72,88 L 78,92 M 122,86 L 128,88 M 86,114 L 92,110 M 106,112 L 112,116" />
+    <path android:strokeColor="#2ECC71" android:strokeWidth="3" android:strokeLineCap="round" android:pathData="M 96,60 L 102,62 M 66,76 L 72,74 M 126,74 L 132,78 M 74,104 L 80,102 M 116,102 L 122,106" />
+</vector>

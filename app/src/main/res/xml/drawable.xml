@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version>1</version>
+    <category title="Food Icons">
+        <item drawable="food_burger" />
+        <item drawable="food_pizza" />
+        <item drawable="food_ramen" />
+        <item drawable="food_sushi" />
+        <item drawable="food_taco" />
+        <item drawable="food_donut" />
+        <item drawable="food_coffee" />
+        <item drawable="food_drink" />
+        <item drawable="food_fries" />
+        <item drawable="food_icecream" />
+        <item drawable="food_avocado" />
+        <item drawable="food_egg" />
+        <item drawable="food_meat" />
+    </category>
+</resources>

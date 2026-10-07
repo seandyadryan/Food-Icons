@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="192dp"
+    android:height="192dp"
+    android:viewportWidth="192"
+    android:viewportHeight="192">
+    <path
+        android:fillColor="#1E2B3C"
+        android:pathData="M 96,12 C 144,12 180,48 180,96 C 180,144 144,180 96,180 C 48,180 12,144 12,96 C 12,48 48,12 96,12 Z" />
+    <!-- Steam -->
+    <path android:strokeColor="#BDC3C7" android:strokeWidth="4" android:strokeLineCap="round"
+        android:pathData="M 74,52 C 70,44 76,36 72,28 M 96,50 C 92,42 98,34 94,26 M 118,52 C 114,44 120,36 116,28" />
+    <!-- Coffee cup handle -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="10"
+        android:pathData="M 126,78 C 152,78 152,118 126,118" />
+    <!-- Coffee Cup -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 52,66 L 132,66 L 124,136 C 124,146 110,154 92,154 C 74,154 60,146 60,136 Z" />
+    <!-- Dark Coffee inside -->
+    <path
+        android:fillColor="#5C3317"
+        android:pathData="M 58,74 L 126,74 C 126,82 110,88 92,88 C 74,88 58,82 58,74 Z" />
+    <!-- Heart in latte art -->
+    <path
+        android:fillColor="#FAD7A0"
+        android:pathData="M 92,82 C 86,76 80,82 86,86 L 92,92 L 98,86 C 104,82 98,76 92,82 Z" />
+</vector>

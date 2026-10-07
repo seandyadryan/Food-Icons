@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="192dp"
+    android:height="192dp"
+    android:viewportWidth="192"
+    android:viewportHeight="192">
+    <path
+        android:fillColor="#1E2B3C"
+        android:pathData="M 96,12 C 144,12 180,48 180,96 C 180,144 144,180 96,180 C 48,180 12,144 12,96 C 12,48 48,12 96,12 Z" />
+    <!-- Sunny side up Egg White -->
+    <path
+        android:fillColor="#FDFEFE"
+        android:pathData="M 96,44 C 124,44 146,58 152,86 C 158,114 138,142 118,150 C 98,158 66,152 50,132 C 34,112 46,78 68,54 C 76,46 86,44 96,44 Z" />
+    <!-- Golden Yolk -->
+    <path
+        android:fillColor="#F39C12"
+        android:pathData="M 96,96 A 26,26 0 1 1 96,95 Z" />
+    <path
+        android:fillColor="#F1C40F"
+        android:pathData="M 92,92 A 18,18 0 1 1 92,91 Z" />
+    <!-- Shine -->
+    <path android:fillColor="#FFFFFF" android:pathData="M 84,82 A 5,5 0 1 1 84,81 Z" />
+</vector>

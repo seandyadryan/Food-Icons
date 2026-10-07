@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="192dp"
+    android:height="192dp"
+    android:viewportWidth="192"
+    android:viewportHeight="192">
+    <path
+        android:fillColor="#1E2B3C"
+        android:pathData="M 96,12 C 144,12 180,48 180,96 C 180,144 144,180 96,180 C 48,180 12,144 12,96 C 12,48 48,12 96,12 Z" />
+    <!-- Steak meat piece -->
+    <path
+        android:fillColor="#C0392B"
+        android:pathData="M 76,52 C 114,40 148,60 152,94 C 156,128 126,150 96,152 C 66,154 44,134 44,106 C 44,80 54,58 76,52 Z" />
+    <path
+        android:fillColor="#E74C3C"
+        android:pathData="M 80,60 C 112,50 140,68 144,96 C 148,124 122,142 96,144 C 70,146 52,130 52,106 C 52,84 62,66 80,60 Z" />
+    <!-- Bone in center -->
+    <path android:fillColor="#FDFEFE" android:pathData="M 88,100 A 12,12 0 1 1 88,99 Z" />
+    <path android:fillColor="#BDC3C7" android:pathData="M 88,100 A 6,6 0 1 1 88,99 Z" />
+    <!-- Grill marks -->
+    <path android:strokeColor="#7B241C" android:strokeWidth="4" android:strokeLineCap="round"
+        android:pathData="M 68,78 L 126,104 M 76,96 L 136,120 M 64,112 L 108,132" />
+</vector>

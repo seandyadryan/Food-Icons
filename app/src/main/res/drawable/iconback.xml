@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="192dp"
+    android:height="192dp"
+    android:viewportWidth="192"
+    android:viewportHeight="192">
+    <!-- Rounded squircle base tile with food-tray look -->
+    <path
+        android:fillColor="#1E2B3C"
+        android:pathData="M 96,8 C 148,8 184,44 184,96 C 184,148 148,184 96,184 C 44,184 8,148 8,96 C 8,44 44,8 96,8 Z" />
+    <path
+        android:fillColor="#253549"
+        android:pathData="M 96,16 C 142,16 176,50 176,96 C 176,142 142,176 96,176 C 50,176 16,142 16,96 C 16,50 50,16 96,16 Z" />
+    <!-- Warm orange subtle rim -->
+    <path
+        android:strokeColor="#FF6B2C"
+        android:strokeWidth="3"
+        android:pathData="M 96,18 C 140,18 174,52 174,96 C 174,140 140,174 96,174 C 52,174 18,140 18,96 C 18,52 52,18 96,18 Z" />
+</vector>
